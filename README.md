@@ -60,16 +60,3 @@ My interests span data analysis, web development, AI/ML, and building products t
 - 💬 Open to networking, mentorship, and collaboration opportunities.  
 
 
-[1](https://www.linkedin.com/posts/anil-kotapuri_sde-highradius-successstory-activity-7392202989060595713-Dd8h)
-[2](https://www.linkedin.com/pub/dir/Teja+Kumar/+)
-[3](https://in.linkedin.com/in/teja-kumar-bathula)
-[4](https://github.com/anuraghazra/github-readme-stats)
-[5](https://github.com/teja-cmd/teja-cmd/edit/main/README.md)
-[6](https://github.com/tejad245)
-[7](https://github.com/teja-app)
-[8](https://github.com/teja00)
-[9](https://github.com/saiteja-madha)
-[10](https://github.com/tejas-raskar/noted.md)
-[11](https://profile-readme.readthedocs.io/en/latest/cli.html)
-[12](https://github.com/tejavarma-aln)
-[13](https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45)
