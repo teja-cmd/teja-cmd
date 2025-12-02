@@ -45,14 +45,6 @@ My interests span data analysis, web development, AI/ML, and building products t
 - 📊 Data / ML: Python for data analysis, introductory ML libraries (pandas, NumPy, etc.)  
 
 
-
-## GitHub stats
-
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=teja-cmd&show_icons
-
-[4]
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teja-cmd&layout=compact&theme
-
 ## Connect with me
 
 - 📫 Email: tejakumarbathula5@gmail.com  
